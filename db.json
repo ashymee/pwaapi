@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "White rhinoceros",
+        "category": "Turquoise"
+    },
+    {
+        "id": 2,
+        "name": "Dik, kirk's dik",
+        "category": "Teal"
+    },
+    {
+        "id": 3,
+        "name": "Pig-tailed macaque",
+        "category": "Crimson"
+    },
+    {
+        "id": 4,
+        "name": "White-bellied sea eagle",
+        "category": "Aquamarine"
+    },
+    {
+        "id": 5,
+        "name": "Pie, indian tree",
+        "category": "Aquamarine"
+    },
+    {
+        "id": 6,
+        "name": "Grey mouse lemur",
+        "category": "Maroon"
+    },
+    {
+        "id": 7,
+        "name": "Praying mantis (unidentified)",
+        "category": "Fuscia"
+    },
+    {
+        "id": 8,
+        "name": "Chipmunk, least",
+        "category": "Crimson"
+    },
+    {
+        "id": 9,
+        "name": "Tortoise, burmese brown mountain",
+        "category": "Orange"
+    },
+    {
+        "id": 10,
+        "name": "Gray duiker",
+        "category": "Crimson"
+    },
+    {
+        "id": 11,
+        "name": "Netted rock dragon",
+        "category": "Purple"
+    },
+    {
+        "id": 12,
+        "name": "Jackal, black-backed",
+        "category": "Red"
+    },
+    {
+        "id": 13,
+        "name": "Long-tailed skua",
+        "category": "Pink"
+    },
+    {
+        "id": 14,
+        "name": "Bleeding heart monkey",
+        "category": "Indigo"
+    },
+    {
+        "id": 15,
+        "name": "Bird, pied butcher",
+        "category": "Red"
+    },
+    {
+        "id": 16,
+        "name": "Tortoise, indian star",
+        "category": "Mauv"
+    },
+    {
+        "id": 17,
+        "name": "Turkey, wild",
+        "category": "Yellow"
+    },
+    {
+        "id": 18,
+        "name": "Snake-necked turtle",
+        "category": "Blue"
+    },
+    {
+        "id": 19,
+        "name": "Mexican beaded lizard",
+        "category": "Orange"
+    },
+    {
+        "id": 20,
+        "name": "Deer, spotted",
+        "category": "Crimson"
+    }
+]
